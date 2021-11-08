@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marvinkuth
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning big data analysis with python
+- 💞️ I’m looking to collaborate on 🤔
+- 📫 How to reach me (coming soon)
